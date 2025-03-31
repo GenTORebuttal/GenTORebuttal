@@ -1,5 +1,7 @@
-## Hi there 👋
+## README
+This repository contains the supplemental table and figures for the rebuttal of the paper "Generative Topology Optimization: Exploring Diverse Solutions in Structural Design" for ICML 2025
 
+Please simply download the .pdf file and do not further interact with this repository to maintain the double-blind review.
 <!--
 **GenTORebuttal/GenTORebuttal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
